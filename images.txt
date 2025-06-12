@@ -2,3 +2,5 @@ nginx:1.19-alpine
 redis:6.0-alpine
 certbot/certbot:latest
 python:3.11.3
+node:20.18.0
+#docker pull crpi-yz5b718hry1ko0f2.cn-hangzhou.personal.cr.aliyuncs.com/bin_guo/python:3.11.3
